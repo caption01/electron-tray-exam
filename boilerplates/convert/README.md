@@ -9,3 +9,7 @@ Start dev server:
 In a new terminal window:
 
 `npm run electron`
+
+### Citeria
+
+- Centelrize comunicate electron & react app in Redux (State management action)
